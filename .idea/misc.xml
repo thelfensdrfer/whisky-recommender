@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="pathToExecutable" value="/usr/local/bin/black" />
+    <option name="sdkUUID" value="ababee6a-884e-47a6-9802-0abaf56da701" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (whisky-tasting)" project-jdk-type="Python SDK" />
+</project>
